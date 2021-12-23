@@ -4,7 +4,7 @@ from two import getting_input_from_user
 def main():
     a = getting_input_from_user()
     b = getting_input_from_user()
-    result = addition(a, c)
+    result = addition(a, b)
     print(f"the sum is {result} ")
 
 main()
