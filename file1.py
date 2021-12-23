@@ -5,6 +5,6 @@ def main():
     a = getting_input_from_user()
     b = getting_input_from_user()
     result = addition(a, b)
-    print(result)
+    print(f"the sum is {result} ")
 
 main()
