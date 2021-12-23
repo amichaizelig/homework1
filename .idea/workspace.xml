@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f3907a-dbe1-4852-b337-046e6ed22e80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/file2.py" afterDir="false" />
-    </list>
+    <list default="true" id="15f3907a-dbe1-4852-b337-046e6ed22e80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22gZF2kHIvfifL3Oe9VciKf9VAU" />
@@ -128,6 +131,8 @@
         <item itemvalue="Python.file1" />
         <item itemvalue="Python.two" />
         <item itemvalue="Python.one" />
+        <item itemvalue="Python.file1" />
+        <item itemvalue="Python.two" />
       </list>
     </recent_temporary>
   </component>
